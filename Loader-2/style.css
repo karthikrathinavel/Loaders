@@ -1,0 +1,46 @@
+*{
+	margin: auto;
+	margin-top: 100px;
+}
+body{
+	position: relative;
+}
+div{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 685px;
+	top: -100px;
+	border: 30px solid pink;
+	border-top: 30px solid red;
+	border-bottom: 30px solid red;
+	border-radius: 50%;
+	animation-name: loading;
+	animation-duration: 3s;
+	animation-timing-function: linear;
+	animation-iteration-count: infinite;
+}
+.div1{
+	position: absolute;
+	left: 635px;
+	top: -150px;
+	width: 200px;
+	height: 200px;
+	border: 30px solid pink;
+	border-right: 30px solid red;
+	border-left: 30px solid red;
+	animation-name: loading;
+	animation-duration: 3s;
+	animation-timing-function: linear;
+	animation-iteration-count: infinite;
+}
+@keyframes loading{
+	0%{
+		transform: rotate(0deg);
+		
+	}
+	100%{
+		transform: rotate(360deg);
+	
+	}
+}

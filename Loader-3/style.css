@@ -1,0 +1,47 @@
+body{
+	background-color: red;
+	color: white;
+}
+.loader{
+	width: 100px;
+	height: 150px;
+	margin: 100px auto;
+}
+.loader div{
+	background-color: white;
+	height: 100%;
+	width: 15px;
+	display: inline-block;
+	animation: stretch 2s infinite;
+}
+.loader .rect1{
+	animation-delay: -1.2s;
+}
+.loader .rect2{
+	animation-delay: -1.1s;
+}
+.loader .rect3{
+	animation-delay: -1.0s;
+}
+.loader .rect4{
+	animation-delay: -0.9s;
+}
+.loader .rect5{
+	animation-delay: -0.8s;
+}
+@keyframes stretch{
+	0%{
+		transform: scaleY(0.4);
+	}
+	20%{
+		transform: scaleY(1.0);
+		box-shadow: 1px 1px 1px 1px black;
+	}
+	40%{
+		transform: scaleY(0.4);
+		box-shadow: 3px 3px 3px 3px black;
+	}
+	100%{
+		transform: scaleY(0.4);
+	}
+}

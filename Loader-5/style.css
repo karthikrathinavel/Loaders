@@ -1,0 +1,47 @@
+body{
+	background-color: #297F87; 
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	overflow: hidden;
+}
+.progress{
+	height: 10px;
+	width: 25%;
+	border: 5px solid #11052C;
+	border-radius: 15px;
+	animation: anim1 5s infinite linear;
+}
+@keyframes anim1{
+	0%{
+		border: 5px solid #11052C;
+	}
+	100%{
+		border: 5px solid #2D2424;
+	}
+}
+.progress .color{
+	background-color:#F6D167;
+	width: 0px;
+	height: 10px;
+	border-radius: 15px;
+	animation: anim 5s infinite linear;
+}
+@keyframes anim{
+	0%{
+		width: 0%;
+	}
+	25%{
+		width: 50%;
+	}
+	50%{
+		width: 75%;
+	}
+	75%{
+		width: 85%;
+	}
+	100%{
+		width: 100%;
+	}
+}

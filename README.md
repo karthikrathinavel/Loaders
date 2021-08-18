@@ -7,9 +7,7 @@ https://user-images.githubusercontent.com/80736284/127798688-cc2d86cc-2cb8-4884-
 Loader-4<br>
 https://user-images.githubusercontent.com/80736284/128621317-7a275b11-385d-48f1-999a-d19826495640.mp4<br><br>
 Loader-5<br>
-![loader5jpg](https://user-images.githubusercontent.com/80736284/129512072-cf46d8ec-f67a-452c-8f23-1c4c6b6ae1c1.JPG)
-
-
-
-
+![loader5jpg](https://user-images.githubusercontent.com/80736284/129512072-cf46d8ec-f67a-452c-8f23-1c4c6b6ae1c1.JPG)<br><br>
+Loader-6<br>
+![image](https://user-images.githubusercontent.com/80736284/129942157-3bc11b91-bafd-47ce-bfb9-f7642dedb10e.png)<br><br>
 

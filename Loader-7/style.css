@@ -1,0 +1,35 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	min-height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-image: url(Images/space.jpg);
+	background-size: cover;
+}
+.container{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	background-color: blue;
+	background: url(Images/download.jpg);
+	background-repeat: repeat-x;
+	background-size: cover;
+	animation: 100s linear infinite;
+	animation-name: anim;
+	animation-direction: alternate;
+	box-shadow: -3px -3px 3px 3px inset black;
+}
+@keyframes anim{
+	0%{
+		background-position: 0 0;
+	}
+	100%{
+		background-position: 1000% 0;
+	}
+
+}

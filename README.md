@@ -10,4 +10,7 @@ Loader-5<br>
 ![loader5jpg](https://user-images.githubusercontent.com/80736284/129512072-cf46d8ec-f67a-452c-8f23-1c4c6b6ae1c1.JPG)<br><br>
 Loader-6<br>
 ![image](https://user-images.githubusercontent.com/80736284/129942157-3bc11b91-bafd-47ce-bfb9-f7642dedb10e.png)<br><br>
+Loader-7<br>
+![image](https://user-images.githubusercontent.com/80736284/130007384-01eb20fa-29a5-4564-b406-d88d5eb23a4e.png)<br><br>
+
 
